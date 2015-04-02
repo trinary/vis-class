@@ -1,6 +1,7 @@
 ## Dimensions
 
  * Position
+ * Distance Traveled
  * Direction
  * Army Size
  * Temperature
@@ -8,7 +9,7 @@
 
 ***
 
-Hundreds of pieces of data in five dimensions, distilled into a single, understandable image.
+Hundreds of pieces of data in six dimensions, distilled into a single, understandable image.
 
 *** 
 

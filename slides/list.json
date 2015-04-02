@@ -7,13 +7,17 @@
       "why.md",
       "pinwheel-of-obscurity.md",
       "map-of-wtf.md",
-      "obvious-correlation.md"
+      "obvious-correlation.md",
+      "spurious.md"
     ],
     "intuitive-communication.md",
     "minards-map.md",
     "minards-points.md",
     "why-not-tables.md",
     "anscombe.md",
+    "engage-visual.md",
+    "choosing-vis.md",
+    "advice.md",
     "bart-strike.md",
     "d3.md",
     "d3-is-big.md",

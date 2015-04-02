@@ -9,6 +9,8 @@ In 1973, Francis Anscombe constructed a dataset with four series. These four arr
  * A high coefficient of correlation 
  * The same regression line
 
+***
+
 These sets should be essentially the same, right?
 
 
