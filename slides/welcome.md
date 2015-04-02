@@ -1,5 +1,7 @@
 # Welcome!
 
+***
+
 ## Who I am:
 
 Erik Cunningham
