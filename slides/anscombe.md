@@ -1,4 +1,4 @@
 ## Nope!
 
 ***
-![Wikipedia image](/images/anscombe.png)
+![Wikipedia image](images/anscombe.png)
