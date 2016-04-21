@@ -2,7 +2,7 @@
 
 ***
 
-No presets, no wizards.
+No presets, no out-of-the-box displays.
 
 ***
 

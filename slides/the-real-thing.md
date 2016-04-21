@@ -10,4 +10,4 @@ Here's what a bar chart looks like using more of D3's functionality.
 
  ***
 
- [ http://tributary.io/inlet/7142407 ]( http://tributary.io/inlet/7142407 )
+ [http://blockbuilder.org/trinary/20e97593502dbfe35254ce3581c95eab](http://blockbuilder.org/trinary/20e97593502dbfe35254ce3581c95eab)

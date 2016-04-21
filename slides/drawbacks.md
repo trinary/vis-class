@@ -5,7 +5,7 @@
  * Learning curve
  * Performance with many objects
  * Sometimes SVG/HTML/CSS workarounds are required
- * Limited support for IE, especially versions before 10
+ * Limited support for old browsers.
 
 
  Note:
