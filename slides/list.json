@@ -21,7 +21,10 @@
     "bart-strike.md",
     "d3.md",
     "d3-is-big.md",
-    "not-a-chart-library.md",
+    [
+      "not-a-chart-library.md",
+      "chart-libraries.md"
+    ],
     "drawbacks.md",
     "fundamentals.md",
     "data-binding-again.md",
@@ -34,5 +37,6 @@
     "building-blocks.md",
     "the-real-thing.md",
     "an-exercise.md",
-    "learning.md"
+    "learning.md",
+    "questions.md"
 ]
