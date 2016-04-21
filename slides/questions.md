@@ -2,5 +2,5 @@
 
 ***
 
-@trinary
+[ @trinary ]( https://twitter.com/trinary )
 
