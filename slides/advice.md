@@ -8,4 +8,4 @@
 
 *** 
 
-A simple bar or line chart is usually all you actually need.
+A great deal can be accomplished with line and bar charts.

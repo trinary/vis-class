@@ -1,7 +1,8 @@
-# Generated on 2015-04-02 using generator-reveal 0.4.0
+# Generated on 2016-04-21 using generator-reveal 0.5.8
 module.exports = (grunt) ->
 
     grunt.initConfig
+        pkg: grunt.file.readJSON 'package.json'
 
         watch:
 
@@ -12,6 +13,7 @@ module.exports = (grunt) ->
                     'index.html'
                     'slides/{,*/}*.{md,html}'
                     'js/*.js'
+                    'resources/**'
                 ]
 
             index:
@@ -68,6 +70,7 @@ module.exports = (grunt) ->
                         'slides/**'
                         'bower_components/**'
                         'js/**'
+                        'resources/**'
                     ]
                     dest: 'dist/'
                 },{
@@ -87,7 +90,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:trinary/vis-class.git'
+                    remote: '<%= pkg.repository.url %>'
                     branch: 'gh-pages'
         
 

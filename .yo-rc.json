@@ -1,6 +1,6 @@
 {
   "generator-reveal": {
-    "presentationTitle": "Data Vis",
+    "presentationTitle": "data vis and d3",
     "packageVersion": "0.0.0",
     "revealTheme": "simple",
     "useSass": false,
