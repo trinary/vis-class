@@ -2,7 +2,7 @@
 
 *** 
 
-389 [API](https://github.com/mbostock/d3/wiki/API-Reference) functions in 47 objects.
+Hundreds of [API](https://github.com/d3/d3/blob/master/API.md) functions in 25 subprojects
 
 Mike Bostock's [examples page](http://bl.ocks.org/mbostock) has 901 curated examples.
 

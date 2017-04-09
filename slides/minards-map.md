@@ -6,7 +6,6 @@
  * Army Size
  * Temperature
  * Time
-
 ***
 
 Hundreds of pieces of data in six dimensions, distilled into a single, understandable image.

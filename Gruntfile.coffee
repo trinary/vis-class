@@ -114,11 +114,6 @@ module.exports = (grunt) ->
                             slide
             grunt.file.write 'index.html', html
 
-    grunt.registerTask 'test',
-        '*Lint* javascript and coffee files.', [
-            'coffeelint'
-            'jshint'
-        ]
 
     grunt.registerTask 'serve',
         'Run presentation locally and start watch process (living document).', [
@@ -129,7 +124,6 @@ module.exports = (grunt) ->
 
     grunt.registerTask 'dist',
         'Save presentation files to *dist* directory.', [
-            'test'
             'buildIndex'
             'copy'
         ]
@@ -144,6 +138,5 @@ module.exports = (grunt) ->
 
     # Define default task.
     grunt.registerTask 'default', [
-        'test'
         'serve'
     ]
