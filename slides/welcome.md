@@ -1,7 +1,7 @@
 # Welcome!
 
 ***
-
+[slides at bit.ly/cu-vis](http://bit.ly/cu-vis)
 ## Who I am:
 
 Erik Cunningham
