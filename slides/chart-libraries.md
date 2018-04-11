@@ -9,4 +9,4 @@ There are a **lot** of libraries for out-of-the box charts.
 There are some very capable and flexible higher-level libraries. Check out Vega and Vega-Lite:
 (https://vega.github.io/vega-lite/)
 
-Someties that's all you need! Choose a nice one.
+Sometimes that's all you need! Choose a nice one.
