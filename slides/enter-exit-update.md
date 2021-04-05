@@ -2,7 +2,7 @@
 
 Given a data binding
 
-    d3.select("body").selectAll("div").data([0,1,2])
+    d3.selectAll("div").data([0,1,2])
 
 Tell D3 what to do when there is no corresponding document element for a data element:
 

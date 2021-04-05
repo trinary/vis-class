@@ -2,7 +2,7 @@
 
 *** 
 
-Hundreds of [API](https://github.com/d3/d3/blob/master/API.md) functions in 25 subprojects
+Hundreds of [API](https://github.com/d3/d3/blob/master/API.md) functions in more than 30 modules.
 
 Mike Bostock's [examples page](http://bl.ocks.org/mbostock) has 988 curated examples.
 

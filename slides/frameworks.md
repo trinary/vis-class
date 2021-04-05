@@ -1,7 +1,8 @@
 ## D3 and Frameworks
 Libraries like D3 no longer exist in isolation.
 ***
- * React: data as props, re-select and call d3 render code in render(), do not use JSX
- * Or: replace enter-update-exit with React JSX rendering, d3 becomes a utility library
- * Hybrid frameworks: [Semiotic by Elijah Meeks](https://github.com/emeeks/semiotic)
+ * React: Lots of [tutorials](d3.https://blog.logrocket.com/using-d3-js-v6-with-react/) on how to wrap components that use d3.
+ * Hybrid frameworks: [Semiotic by Elijah Meeks](https://semiotic.nteract.io/)
    * Implements d3-aware containers as a react component library
+ * Hosted notebook interfaces
+   * [Observable!](https://observablehq.com)

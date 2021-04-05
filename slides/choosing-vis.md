@@ -6,6 +6,6 @@
 Many criteria go into choosing a visualization:
 
  * structure of the data (nested/grouped?)
-  * [Series](http://bl.ocks.org/mbostock/3884955), [Grouped](http://bl.ocks.org/mbostock/3943967), [Network](http://bl.ocks.org/mbostock/2706022), [Tree](http://bl.ocks.org/mbostock/999346)
+  * [Series](https://observablehq.com/@d3/multi-line-chart), [Grouped](https://observablehq.com/@d3/stacked-to-grouped-bars), [Network](http://bl.ocks.org/mbostock/2706022), [Tree](https://observablehq.com/@d3/random-tree)
  * amount of data (one observation vs millions)
-  * [Single Values](http://bl.ocks.org/mbostock/4061961), [Focus](http://bl.ocks.org/mbostock/1667367)
+  * [Single Values](http://bl.ocks.org/mbostock/4061961), [Focus](https://observablehq.com/@d3/focus-context)

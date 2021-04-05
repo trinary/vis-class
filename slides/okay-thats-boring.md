@@ -1,10 +1,8 @@
-## Okay, but that's pretty boring
+## Okay, but that's not a good chart
 
 ***
 
-Yeah, you're right. Let's take a look at something more relevant.
+Yeah, you're right. Let's take another step toward something nicer:
 
-A bar chart!
-
-[http://blockbuilder.org/trinary/88d9c034bbae77cb6560e70533ceecc8](http://blockbuilder.org/trinary/88d9c034bbae77cb6560e70533ceecc8)
+[https://codepen.io/trinary/pen/JjEJNMV](https://codepen.io/trinary/pen/JjEJNMV)
 

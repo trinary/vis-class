@@ -2,7 +2,7 @@
 
 ***
 
-No presets, no out-of-the-box displays.
+There are helpers and defaults, but they'll only get you so far.
 
 ***
 
