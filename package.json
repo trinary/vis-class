@@ -23,5 +23,8 @@
   },
   "scripts": {
     "test": "grunt test"
+  },
+  "dependencies": {
+    "coffeescript": "^2.5.1"
   }
 }
