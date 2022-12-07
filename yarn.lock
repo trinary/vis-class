@@ -289,6 +289,11 @@ coffeelint@^1.0.0:
     resolve "^0.6.3"
     strip-json-comments "^1.0.2"
 
+coffeescript@^2.5.1:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/coffeescript/-/coffeescript-2.7.0.tgz#a43ec03be6885d6d1454850ea70b9409c391279c"
+  integrity sha512-hzWp6TUE2d/jCcN67LrW1eh5b/rSDKQK6oD6VMLlggYVUUFexgTH9z3dNYihzX4RMhze5FTUsUmOXViJKFQR/A==
+
 collection-visit@^1.0.0:
   version "1.0.0"
   resolved "https://artifactory.twitter.biz:443/api/npm/js-virtual/collection-visit/-/collection-visit-1.0.0.tgz#4bc0373c164bc3291b4d368c829cf1a80a59dca0"
@@ -489,9 +494,9 @@ debug@~2.2.0:
     ms "0.7.1"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://artifactory.twitter.biz:443/api/npm/js-virtual/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 define-property@^0.2.5:
   version "0.2.5"
